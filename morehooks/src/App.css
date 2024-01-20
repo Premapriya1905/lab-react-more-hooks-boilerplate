@@ -1,0 +1,23 @@
+#container{
+  background-color: peachpuff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 3vh;
+}
+
+#toggleButton{
+  width: 5vw;
+  margin-right: 2vw;
+}
+
+#inputBox{
+  margin-left: 44vw;
+ 
+}
+
+#goBack{
+  margin-left: 45vw;
+  margin-top: 3vh;
+}
