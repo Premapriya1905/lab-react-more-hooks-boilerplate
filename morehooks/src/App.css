@@ -10,10 +10,12 @@
 #toggleButton{
   width: 5vw;
   margin-right: 2vw;
+  display: flex;
+  justify-content: center;
 }
 
 #inputBox{
-  margin-left: 44vw;
+  margin-left: 43.5vw;
  
 }
 
